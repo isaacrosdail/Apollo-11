@@ -1,69 +1,9 @@
 # Contributing
 
 🌐
-[Azerbaijani][AZ],
-[bahasa Indonesia][ID],
-[Basa Jawa][JV],
-[Català][CA]،
-[Čeština][CZ],
-[Dansk][DA],
-[Deutsch][DE],
 [English][EN],
-[Español][ES],
-[Français][FR],
-[Galego][GL],
-[Italiano][IT],
-[Kurdi][KU],
-[Kurdî][KU],
-[Lietuvių][LT],
-[Mongolia][MN],
-[Nederlands][NL],
-[Norsk][NO],
-[Polski][PL],
-[Português][PT_BR],
-[Svenska][SV],
-[tiếng Việt][VI],
-[Türkçe][TR],
-[Ελληνικά][GR],
-[Українська][UK]،
-[العربية][AR],
-[हिन्दी][HI_IN],
-[한국어][KO_KR],
-[日本語][JA],
-[正體中文][ZH_TW],
-[简体中文][ZH_CN],
-[Basa Jawa][JV]
 
-[AR]:Translations/CONTRIBUTING.ar.md
-[AZ]:Translations/CONTRIBUTING.az.md
-[CA]:Translations/CONTRIBUTING.ca.md
-[CZ]:Translations/CONTRIBUTING.cz.md
-[DA]:Translations/CONTRIBUTING.da.md
-[DE]:Translations/CONTRIBUTING.de.md
 [EN]:CONTRIBUTING.md
-[ES]:Translations/CONTRIBUTING.es.md
-[FR]:Translations/CONTRIBUTING.fr.md
-[GL]:Translations/CONTRIBUTING.gl.md
-[GR]:Translations/CONTRIBUTING.gr.md
-[HI_IN]:Translations/CONTRIBUTING.hi_in.md
-[ID]:Translations/CONTRIBUTING.id.md
-[IT]:Translations/CONTRIBUTING.it.md
-[JA]:Translations/CONTRIBUTING.ja.md
-[JV]:Translations/CONTRIBUTING.jv.md
-[KO_KR]:Translations/CONTRIBUTING.ko_kr.md
-[KU]:Translations/CONTRIBUTING.ku.md
-[LT]:Translations/CONTRIBUTING.lt.md
-[MN]:Translations/CONTRIBUTING.mn.md
-[NL]:Translations/CONTRIBUTING.nl.md
-[NO]:Translations/CONTRIBUTING.no.md
-[PL]:Translations/CONTRIBUTING.pl.md
-[PT_BR]:Translations/CONTRIBUTING.pt_br.md
-[SV]:Translations/CONTRIBUTING.sv.md
-[TR]:Translations/CONTRIBUTING.tr.md
-[UK]:Translations/CONTRIBUTING.uk.md
-[VI]:Translations/CONTRIBUTING.vi.md
-[ZH_CN]:Translations/CONTRIBUTING.zh_cn.md
-[ZH_TW]:Translations/CONTRIBUTING.zh_tw.md
 
 The source code in this repository was digitized manually from paper printouts, so typos and other discrepancies have been introduced accidentally. The code shall be modified to be made consistent with the following scanned printouts:
 
