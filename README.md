@@ -11,11 +11,8 @@ I've cleaned up / modified files for my own study purposes. For the complete, au
 [![Luminary]][LuminaryMilestone]
 
 🌐
-[Deutsch][DE],
 [English][EN],
-[Русский][RU],
 
-[DE]:Translations/README.de.md
 [EN]:README.md
 
 
