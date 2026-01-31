@@ -1,92 +1,24 @@
 # Apollo-11
 
+## About this repository:
+his is a personal learning repository based on the [original Apollo 11 source code](https://github.com/chrislgarry/Apollo-11).
+  
+I've cleaned up / modified files for my own study purposes. For the complete, authentic source, visit the original repo.
+
 [![NASA][1]][2]
 [![SWH]][SWH_URL]
 [![Comanche]][ComancheMilestone]
 [![Luminary]][LuminaryMilestone]
 
 🌐
-[Azerbaijani][AZ],
-[bahasa Indonesia][ID],
-[Basa Jawa][JV],
-[Català][CA],
-[Čeština][CZ],
-[Dansk][DA],
 [Deutsch][DE],
 [English][EN],
-[Español][ES],
-[Français][FR],
-[Galego][GL],
-[Italiano][IT],
-[Kurdî][KU],
-[Lietuvių][LT],
-[Mongolian][MN],
-[Nederlands][NL],
-[Norsk][NO],
-[Polski][PL],
-[Português][PT_BR],
-[Română][RO],
-[Suomi][FI],
-[Svenska][SV],
-[tiếng Việt][VI],
-[Türkçe][TR],
-[Ελληνικά][GR],
-[Беларуская мова][BE],
 [Русский][RU],
-[Українська][UK],
-[العربية][AR],
-[فارسی][FA],
-[नेपाली भाषा][NE]
-[हिंदी][HI_IN],
-[অসমীয়া][AS_IN],
-[বাংলা][BD_BN],
-[မြန်မာ][MM],
-[한국어][KO_KR],
-[日本語][JA],
-[正體中文][ZH_TW],
-[简体中文][ZH_CN],
-[മലയാളം][ML]
 
-[AR]:Translations/README.ar.md
-[AS_IN]:Translations/README.as_in.md
-[AZ]:Translations/README.az.md
-[BD_BN]:Translations/README.bd_bn.md
-[BE]:Translations/README.be.md
-[CA]:Translations/README.ca.md
-[CZ]:Translations/README.cz.md
-[DA]:Translations/README.da.md
 [DE]:Translations/README.de.md
 [EN]:README.md
-[ES]:Translations/README.es.md
-[FA]:Translations/README.fa.md
-[FI]:Translations/README.fi.md
-[FR]:Translations/README.fr.md
-[GL]:Translations/README.gl.md
-[GR]:Translations/README.gr.md
-[HI_IN]:Translations/README.hi_in.md
-[ID]:Translations/README.id.md
-[IT]:Translations/README.it.md
-[JA]:Translations/README.ja.md
-[JV]:Translations/README.jv.md
-[KO_KR]:Translations/README.ko_kr.md
-[KU]:Translations/README.ku.md
-[LT]:Translations/README.lt.md
-[MM]:Translations/README.mm.md
-[MN]:Translations/README.mn.md
-[NE]:Translations/README.ne.md
-[NL]:Translations/README.nl.md
-[NO]:Translations/README.no.md
-[PL]:Translations/README.pl.md
-[PT_BR]:Translations/README.pt_br.md
-[RO]:Translations/README.ro.md
-[RU]:Translations/README.ru.md
-[SV]:Translations/README.sv.md
-[TR]:Translations/README.tr.md
-[UK]:Translations/README.uk.md
-[VI]:Translations/README.vi.md
-[ZH_CN]:Translations/README.zh_cn.md
-[ZH_TW]:Translations/README.zh_tw.md
-[ML]:Translations/README.ml.md
+
+
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
 
 ## Compiling
